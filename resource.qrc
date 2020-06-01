@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/backg.gif</file>
+        <file>resource/bulletD.gif</file>
+        <file>resource/bulletL.gif</file>
+        <file>resource/bulletR.gif</file>
+        <file>resource/bulletU.gif</file>
+        <file>resource/e1.gif</file>
+        <file>resource/e2.gif</file>
+        <file>resource/e3.gif</file>
+        <file>resource/e4.gif</file>
+        <file>resource/e5.gif</file>
+        <file>resource/e6.gif</file>
+        <file>resource/e7.gif</file>
+        <file>resource/e8.gif</file>
+        <file>resource/e9.gif</file>
+        <file>resource/e10.gif</file>
+        <file>resource/e11.gif</file>
+        <file>resource/e12.gif</file>
+        <file>resource/e13.gif</file>
+        <file>resource/e14.gif</file>
+        <file>resource/e15.gif</file>
+        <file>resource/e16.gif</file>
+        <file>resource/enemydown.png</file>
+        <file>resource/enemyleft.png</file>
+        <file>resource/enemyright.png</file>
+        <file>resource/enemyup.png</file>
+        <file>resource/GoodTank1.png</file>
+        <file>resource/GoodTank2.png</file>
+        <file>resource/GoodTank3.png</file>
+        <file>resource/GoodTank4.png</file>
+        <file>resource/home.png</file>
+        <file>resource/home1.png</file>
+        <file>resource/square0.jpg</file>
+        <file>resource/stone.png</file>
+        <file>resource/tree.png</file>
+        <file>resource/u=529426770,2724737800&amp;fm=26&amp;gp=0.jpg</file>
+        <file>resource/mylogo.png</file>
+        <file>resource/tipback.png</file>
+        <file>resource/cgtpass.png</file>
+        <file>resource/winthegame.png</file>
+        <file>resource/losethegame.png</file>
+        <file>resource/speedup.png</file>
+    </qresource>
+</RCC>
